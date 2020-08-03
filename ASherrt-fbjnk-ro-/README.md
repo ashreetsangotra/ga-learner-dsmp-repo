@@ -5,9 +5,9 @@ There are multiple text files that need to be read and have certain operations p
 
 ### Learnings from the project
 
-String operations
-Conditional statement and loops
-File I/O
-Functions
+1. String operations
+2. Conditional statement and loops
+3. File I/O
+4. Functions
 
 
